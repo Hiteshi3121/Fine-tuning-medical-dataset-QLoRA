@@ -1,4 +1,4 @@
-# 🩺 AI Doctor — Fine-Tuning DeepSeek-R1 on Medical CoT Dataset using QLoRA
+# 🩺 Fine-Tuning DeepSeek-R1 on Medical CoT Dataset using QLoRA
 
 A fine-tuning pipeline that specializes **DeepSeek-R1-Distill-Llama-8B** for clinical medical question answering using **QLoRA (4-bit quantization + LoRA adapters)**. The model learns to reason step-by-step through complex medical cases — mimicking a doctor's chain-of-thought — before delivering a structured answer.
 
